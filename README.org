@@ -1,0 +1,10 @@
+* event-glue
+
+A compact, extendable eventing fabric.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orthecreedence/event-glue.git   |
+| commit  | 3582c23  |
+| systems | event-glue |
+|---------+-------------------------------------------|
+
